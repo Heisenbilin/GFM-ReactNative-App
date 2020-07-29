@@ -116,7 +116,7 @@ export default class MsgEdit extends React.Component{
                           <Path fill="#5A5A68" d="M416 768c-8.19 0-16.38-3.12-22.63-9.37-12.5-12.5-12.5-32.76 0-45.26L594.75 512 393.37 310.63c-12.5-12.5-12.5-32.76 0-45.25 12.5-12.5 32.76-12.5 45.25 0l224 224c12.5 12.5 12.5 32.76 0 45.26l-224 224c-6.24 6.24-14.43 9.36-22.62 9.36z" />
                         </Svg>);
     return (
-      <View style={{flex: 2}}>
+      <View style={{flex: 1}}>
         <View style={{flex: 1,flexDirection: 'row'}}>
           <View style={{flex: 2,flexDirection: 'row'}}>
             <View style={{flex: 1}} />
